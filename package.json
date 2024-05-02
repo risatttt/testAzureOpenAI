@@ -1,0 +1,15 @@
+{
+  "name": "testazureopenai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ChatCompletion.js",
+  "scripts": {
+    "start": "node ChatCompletion.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.12"
+  }
+}
